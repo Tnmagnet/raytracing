@@ -1,0 +1,3 @@
+D:/projects/weekend/cmake-build-debug/CMakeFiles/weekend.dir
+D:/projects/weekend/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/projects/weekend/cmake-build-debug/CMakeFiles/rebuild_cache.dir
